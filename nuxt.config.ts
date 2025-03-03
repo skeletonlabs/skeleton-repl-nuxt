@@ -8,4 +8,12 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  app: {
+    head: {
+      title: "Skeleton + Nuxt Playground",
+      htmlAttrs: {
+        "data-theme": "cerberus",
+      },
+    },
+  },
 });
