@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# Skeleton + Nuxt Playground
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple playground of [Skeleton](https://www.skeleton.dev/) + [Nuxt](https://nuxt.com/).
 
 ## Setup
 
