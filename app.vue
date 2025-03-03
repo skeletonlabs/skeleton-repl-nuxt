@@ -1,6 +1,9 @@
 <template>
-  <div>
+  <main>
+    <!-- Nuxt Default Components -->
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+    <!-- <NuxtWelcome /> -->
+
+    <div class="bg-pink-500">Hello</div>
+  </main>
 </template>
