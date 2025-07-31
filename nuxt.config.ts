@@ -13,6 +13,7 @@ export default defineNuxtConfig({
       title: "Skeleton + Nuxt Playground",
       htmlAttrs: {
         "data-theme": "cerberus",
+        class: "dark",
       },
     },
   },
